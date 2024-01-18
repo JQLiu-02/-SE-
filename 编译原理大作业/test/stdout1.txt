@@ -1,0 +1,372 @@
+词法分析开始!!!
+Type: Token_Type.COLOR, Lexeme: COLOR, Value: 0.0, FuncPtr: None
+Type: Token_Type.IS, Lexeme: IS, Value: 0.0, FuncPtr: None
+Type: Token_Type.GREEN, Lexeme: GREEN, Value: 0.0, FuncPtr: None
+Type: Token_Type.SEMICO, Lexeme: ;, Value: 0.0, FuncPtr: None
+Type: Token_Type.FOR, Lexeme: FOR, Value: 0.0, FuncPtr: None
+Type: Token_Type.T, Lexeme: T, Value: 0.0, FuncPtr: None
+Type: Token_Type.FROM, Lexeme: FROM, Value: 0.0, FuncPtr: None
+Type: Token_Type.CONST_ID, Lexeme: 0, Value: 0.0, FuncPtr: None
+Type: Token_Type.TO, Lexeme: TO, Value: 0.0, FuncPtr: None
+Type: Token_Type.CONST_ID, Lexeme: 2, Value: 2.0, FuncPtr: None
+Type: Token_Type.STEP, Lexeme: STEP, Value: 0.0, FuncPtr: None
+Type: Token_Type.CONST_ID, Lexeme: 0.01, Value: 0.01, FuncPtr: None
+Type: Token_Type.DRAW, Lexeme: DRAW, Value: 0.0, FuncPtr: None
+Type: Token_Type.L_BRACKET, Lexeme: (, Value: 0.0, FuncPtr: None
+Type: Token_Type.T, Lexeme: T, Value: 0.0, FuncPtr: None
+Type: Token_Type.COMMA, Lexeme: ,, Value: 0.0, FuncPtr: None
+Type: Token_Type.CONST_ID, Lexeme: 0, Value: 0.0, FuncPtr: None
+Type: Token_Type.R_BRACKET, Lexeme: ), Value: 0.0, FuncPtr: None
+Type: Token_Type.SEMICO, Lexeme: ;, Value: 0.0, FuncPtr: None
+Type: Token_Type.FOR, Lexeme: FOR, Value: 0.0, FuncPtr: None
+Type: Token_Type.T, Lexeme: T, Value: 0.0, FuncPtr: None
+Type: Token_Type.FROM, Lexeme: FROM, Value: 0.0, FuncPtr: None
+Type: Token_Type.CONST_ID, Lexeme: 0, Value: 0.0, FuncPtr: None
+Type: Token_Type.TO, Lexeme: TO, Value: 0.0, FuncPtr: None
+Type: Token_Type.CONST_ID, Lexeme: 2, Value: 2.0, FuncPtr: None
+Type: Token_Type.STEP, Lexeme: STEP, Value: 0.0, FuncPtr: None
+Type: Token_Type.CONST_ID, Lexeme: 0.01, Value: 0.01, FuncPtr: None
+Type: Token_Type.DRAW, Lexeme: DRAW, Value: 0.0, FuncPtr: None
+Type: Token_Type.L_BRACKET, Lexeme: (, Value: 0.0, FuncPtr: None
+Type: Token_Type.CONST_ID, Lexeme: 0, Value: 0.0, FuncPtr: None
+Type: Token_Type.COMMA, Lexeme: ,, Value: 0.0, FuncPtr: None
+Type: Token_Type.MINUS, Lexeme: -, Value: 0.0, FuncPtr: None
+Type: Token_Type.T, Lexeme: T, Value: 0.0, FuncPtr: None
+Type: Token_Type.R_BRACKET, Lexeme: ), Value: 0.0, FuncPtr: None
+Type: Token_Type.SEMICO, Lexeme: ;, Value: 0.0, FuncPtr: None
+Type: Token_Type.FOR, Lexeme: FOR, Value: 0.0, FuncPtr: None
+Type: Token_Type.T, Lexeme: T, Value: 0.0, FuncPtr: None
+Type: Token_Type.FROM, Lexeme: FROM, Value: 0.0, FuncPtr: None
+Type: Token_Type.CONST_ID, Lexeme: 0, Value: 0.0, FuncPtr: None
+Type: Token_Type.TO, Lexeme: TO, Value: 0.0, FuncPtr: None
+Type: Token_Type.CONST_ID, Lexeme: 2.5, Value: 2.5, FuncPtr: None
+Type: Token_Type.STEP, Lexeme: STEP, Value: 0.0, FuncPtr: None
+Type: Token_Type.CONST_ID, Lexeme: 0.01, Value: 0.01, FuncPtr: None
+Type: Token_Type.DRAW, Lexeme: DRAW, Value: 0.0, FuncPtr: None
+Type: Token_Type.L_BRACKET, Lexeme: (, Value: 0.0, FuncPtr: None
+Type: Token_Type.T, Lexeme: T, Value: 0.0, FuncPtr: None
+Type: Token_Type.COMMA, Lexeme: ,, Value: 0.0, FuncPtr: None
+Type: Token_Type.MINUS, Lexeme: -, Value: 0.0, FuncPtr: None
+Type: Token_Type.T, Lexeme: T, Value: 0.0, FuncPtr: None
+Type: Token_Type.PLUS, Lexeme: +, Value: 0.0, FuncPtr: None
+Type: Token_Type.CONST_ID, Lexeme: 1, Value: 1.0, FuncPtr: None
+Type: Token_Type.R_BRACKET, Lexeme: ), Value: 0.0, FuncPtr: None
+Type: Token_Type.SEMICO, Lexeme: ;, Value: 0.0, FuncPtr: None
+Type: Token_Type.FOR, Lexeme: FOR, Value: 0.0, FuncPtr: None
+Type: Token_Type.T, Lexeme: T, Value: 0.0, FuncPtr: None
+Type: Token_Type.FROM, Lexeme: FROM, Value: 0.0, FuncPtr: None
+Type: Token_Type.CONST_ID, Lexeme: 1, Value: 1.0, FuncPtr: None
+Type: Token_Type.TO, Lexeme: TO, Value: 0.0, FuncPtr: None
+Type: Token_Type.CONST_ID, Lexeme: 3, Value: 3.0, FuncPtr: None
+Type: Token_Type.STEP, Lexeme: STEP, Value: 0.0, FuncPtr: None
+Type: Token_Type.CONST_ID, Lexeme: 0.01, Value: 0.01, FuncPtr: None
+Type: Token_Type.DRAW, Lexeme: DRAW, Value: 0.0, FuncPtr: None
+Type: Token_Type.L_BRACKET, Lexeme: (, Value: 0.0, FuncPtr: None
+Type: Token_Type.T, Lexeme: T, Value: 0.0, FuncPtr: None
+Type: Token_Type.COMMA, Lexeme: ,, Value: 0.0, FuncPtr: None
+Type: Token_Type.MINUS, Lexeme: -, Value: 0.0, FuncPtr: None
+Type: Token_Type.FUNC, Lexeme: LN, Value: 0.0, FuncPtr: <built-in function log>
+Type: Token_Type.L_BRACKET, Lexeme: (, Value: 0.0, FuncPtr: None
+Type: Token_Type.T, Lexeme: T, Value: 0.0, FuncPtr: None
+Type: Token_Type.R_BRACKET, Lexeme: ), Value: 0.0, FuncPtr: None
+Type: Token_Type.R_BRACKET, Lexeme: ), Value: 0.0, FuncPtr: None
+Type: Token_Type.SEMICO, Lexeme: ;, Value: 0.0, FuncPtr: None
+Type: Token_Type.FOR, Lexeme: FOR, Value: 0.0, FuncPtr: None
+Type: Token_Type.T, Lexeme: T, Value: 0.0, FuncPtr: None
+Type: Token_Type.FROM, Lexeme: FROM, Value: 0.0, FuncPtr: None
+Type: Token_Type.CONST_ID, Lexeme: 0, Value: 0.0, FuncPtr: None
+Type: Token_Type.TO, Lexeme: TO, Value: 0.0, FuncPtr: None
+Type: Token_Type.CONST_ID, Lexeme: 2, Value: 2.0, FuncPtr: None
+Type: Token_Type.MUL, Lexeme: *, Value: 0.0, FuncPtr: None
+Type: Token_Type.CONST_ID, Lexeme: PI, Value: 3.1415926, FuncPtr: None
+Type: Token_Type.STEP, Lexeme: STEP, Value: 0.0, FuncPtr: None
+Type: Token_Type.CONST_ID, Lexeme: PI, Value: 3.1415926, FuncPtr: None
+Type: Token_Type.DIV, Lexeme: /, Value: 0.0, FuncPtr: None
+Type: Token_Type.CONST_ID, Lexeme: 200, Value: 200.0, FuncPtr: None
+Type: Token_Type.DRAW, Lexeme: DRAW, Value: 0.0, FuncPtr: None
+Type: Token_Type.L_BRACKET, Lexeme: (, Value: 0.0, FuncPtr: None
+Type: Token_Type.FUNC, Lexeme: COS, Value: 0.0, FuncPtr: <built-in function cos>
+Type: Token_Type.L_BRACKET, Lexeme: (, Value: 0.0, FuncPtr: None
+Type: Token_Type.T, Lexeme: T, Value: 0.0, FuncPtr: None
+Type: Token_Type.R_BRACKET, Lexeme: ), Value: 0.0, FuncPtr: None
+Type: Token_Type.COMMA, Lexeme: ,, Value: 0.0, FuncPtr: None
+Type: Token_Type.FUNC, Lexeme: SIN, Value: 0.0, FuncPtr: <built-in function sin>
+Type: Token_Type.L_BRACKET, Lexeme: (, Value: 0.0, FuncPtr: None
+Type: Token_Type.T, Lexeme: T, Value: 0.0, FuncPtr: None
+Type: Token_Type.R_BRACKET, Lexeme: ), Value: 0.0, FuncPtr: None
+Type: Token_Type.R_BRACKET, Lexeme: ), Value: 0.0, FuncPtr: None
+Type: Token_Type.SEMICO, Lexeme: ;, Value: 0.0, FuncPtr: None
+Type: Token_Type.ORIGIN, Lexeme: ORIGIN, Value: 0.0, FuncPtr: None
+Type: Token_Type.IS, Lexeme: IS, Value: 0.0, FuncPtr: None
+Type: Token_Type.L_BRACKET, Lexeme: (, Value: 0.0, FuncPtr: None
+Type: Token_Type.MINUS, Lexeme: -, Value: 0.0, FuncPtr: None
+Type: Token_Type.CONST_ID, Lexeme: 80, Value: 80.0, FuncPtr: None
+Type: Token_Type.COMMA, Lexeme: ,, Value: 0.0, FuncPtr: None
+Type: Token_Type.CONST_ID, Lexeme: 60, Value: 60.0, FuncPtr: None
+Type: Token_Type.R_BRACKET, Lexeme: ), Value: 0.0, FuncPtr: None
+Type: Token_Type.SEMICO, Lexeme: ;, Value: 0.0, FuncPtr: None
+Type: Token_Type.SCALE, Lexeme: SCALE, Value: 0.0, FuncPtr: None
+Type: Token_Type.IS, Lexeme: IS, Value: 0.0, FuncPtr: None
+Type: Token_Type.L_BRACKET, Lexeme: (, Value: 0.0, FuncPtr: None
+Type: Token_Type.CONST_ID, Lexeme: 100, Value: 100.0, FuncPtr: None
+Type: Token_Type.COMMA, Lexeme: ,, Value: 0.0, FuncPtr: None
+Type: Token_Type.CONST_ID, Lexeme: 100, Value: 100.0, FuncPtr: None
+Type: Token_Type.R_BRACKET, Lexeme: ), Value: 0.0, FuncPtr: None
+Type: Token_Type.SEMICO, Lexeme: ;, Value: 0.0, FuncPtr: None
+Type: Token_Type.SCALE, Lexeme: SCALE, Value: 0.0, FuncPtr: None
+Type: Token_Type.IS, Lexeme: IS, Value: 0.0, FuncPtr: None
+Type: Token_Type.L_BRACKET, Lexeme: (, Value: 0.0, FuncPtr: None
+Type: Token_Type.CONST_ID, Lexeme: 100, Value: 100.0, FuncPtr: None
+Type: Token_Type.COMMA, Lexeme: ,, Value: 0.0, FuncPtr: None
+Type: Token_Type.CONST_ID, Lexeme: 100, Value: 100.0, FuncPtr: None
+Type: Token_Type.R_BRACKET, Lexeme: ), Value: 0.0, FuncPtr: None
+Type: Token_Type.SEMICO, Lexeme: ;, Value: 0.0, FuncPtr: None
+Type: Token_Type.NONTOKEN, Lexeme: None, Value: 0.0, FuncPtr: None
+词法分析结束!!!
+语法分析开始!!!
+enter in  program
+enter in  statement
+enter in color_statement
+matchtoken  COLOR
+matchtoken  IS
+matchtoken  GREEN
+exit from for_statement
+exit from  statement
+matchtoken  SEMICO
+enter in  statement
+enter in for_statement
+matchtoken  FOR
+matchtoken  T
+matchtoken  FROM
+enter in  expression
+value: 0.0
+exit from  expression
+matchtoken  TO
+enter in  expression
+value: 2.0
+exit from  expression
+matchtoken  STEP
+enter in  expression
+value: 0.01
+exit from  expression
+matchtoken  DRAW
+matchtoken  L_BRACKET
+enter in  expression
+value: T
+exit from  expression
+matchtoken  COMMA
+enter in  expression
+value: 0.0
+exit from  expression
+matchtoken  R_BRACKET
+exit from for_statement
+exit from  statement
+matchtoken  SEMICO
+enter in  statement
+enter in for_statement
+matchtoken  FOR
+matchtoken  T
+matchtoken  FROM
+enter in  expression
+value: 0.0
+exit from  expression
+matchtoken  TO
+enter in  expression
+value: 2.0
+exit from  expression
+matchtoken  STEP
+enter in  expression
+value: 0.01
+exit from  expression
+matchtoken  DRAW
+matchtoken  L_BRACKET
+enter in  expression
+value: 0.0
+exit from  expression
+matchtoken  COMMA
+enter in  expression
+operator: -
+ -> Left Child:
+  value: 0.0
+ -> Right Child:
+  value: T
+exit from  expression
+matchtoken  R_BRACKET
+exit from for_statement
+exit from  statement
+matchtoken  SEMICO
+enter in  statement
+enter in for_statement
+matchtoken  FOR
+matchtoken  T
+matchtoken  FROM
+enter in  expression
+value: 0.0
+exit from  expression
+matchtoken  TO
+enter in  expression
+value: 2.5
+exit from  expression
+matchtoken  STEP
+enter in  expression
+value: 0.01
+exit from  expression
+matchtoken  DRAW
+matchtoken  L_BRACKET
+enter in  expression
+value: T
+exit from  expression
+matchtoken  COMMA
+enter in  expression
+operator: +
+ -> Left Child:
+  operator: -
+   -> Left Child:
+    value: 0.0
+   -> Right Child:
+    value: T
+ -> Right Child:
+  value: 1.0
+exit from  expression
+matchtoken  R_BRACKET
+exit from for_statement
+exit from  statement
+matchtoken  SEMICO
+enter in  statement
+enter in for_statement
+matchtoken  FOR
+matchtoken  T
+matchtoken  FROM
+enter in  expression
+value: 1.0
+exit from  expression
+matchtoken  TO
+enter in  expression
+value: 3.0
+exit from  expression
+matchtoken  STEP
+enter in  expression
+value: 0.01
+exit from  expression
+matchtoken  DRAW
+matchtoken  L_BRACKET
+enter in  expression
+value: T
+exit from  expression
+matchtoken  COMMA
+enter in  expression
+enter in  expression
+exit from  expression
+operator: -
+ -> Left Child:
+  value: 0.0
+ -> Right Child:
+  func: LN
+   -> Child:
+    value: T
+exit from  expression
+matchtoken  R_BRACKET
+exit from for_statement
+exit from  statement
+matchtoken  SEMICO
+enter in  statement
+enter in for_statement
+matchtoken  FOR
+matchtoken  T
+matchtoken  FROM
+enter in  expression
+value: 0.0
+exit from  expression
+matchtoken  TO
+enter in  expression
+operator: *
+ -> Left Child:
+  value: 2.0
+ -> Right Child:
+  value: 3.1415926
+exit from  expression
+matchtoken  STEP
+enter in  expression
+operator: /
+ -> Left Child:
+  value: 3.1415926
+ -> Right Child:
+  value: 200.0
+exit from  expression
+matchtoken  DRAW
+matchtoken  L_BRACKET
+enter in  expression
+enter in  expression
+exit from  expression
+func: COS
+ -> Child:
+  value: T
+exit from  expression
+matchtoken  COMMA
+enter in  expression
+enter in  expression
+exit from  expression
+func: SIN
+ -> Child:
+  value: T
+exit from  expression
+matchtoken  R_BRACKET
+exit from for_statement
+exit from  statement
+matchtoken  SEMICO
+enter in  statement
+enter in origin_statement
+matchtoken  ORIGIN
+matchtoken  IS
+matchtoken  L_BRACKET
+enter in  expression
+operator: -
+ -> Left Child:
+  value: 0.0
+ -> Right Child:
+  value: 80.0
+exit from  expression
+matchtoken  COMMA
+enter in  expression
+value: 60.0
+exit from  expression
+matchtoken  R_BRACKET
+exit from origin_statement
+exit from  statement
+matchtoken  SEMICO
+enter in  statement
+enter in scale_statement
+matchtoken  SCALE
+matchtoken  IS
+matchtoken  L_BRACKET
+enter in  expression
+value: 100.0
+exit from  expression
+matchtoken  COMMA
+enter in  expression
+value: 100.0
+exit from  expression
+matchtoken  R_BRACKET
+exit from scale_statement
+exit from  statement
+matchtoken  SEMICO
+enter in  statement
+enter in scale_statement
+matchtoken  SCALE
+matchtoken  IS
+matchtoken  L_BRACKET
+enter in  expression
+value: 100.0
+exit from  expression
+matchtoken  COMMA
+enter in  expression
+value: 100.0
+exit from  expression
+matchtoken  R_BRACKET
+exit from scale_statement
+exit from  statement
+matchtoken  SEMICO
+exit from program
+语法分析结束!!!
+语义分析结果:
+(100.0, 100.0, 0.0, -80.0, 60.0, ['T', 'T', 'T', 'T', 'T'], [0.0, 0.0, 0.0, 1.0, 0.0], [2.0, 2.0, 2.5, 3.0, 6.2831852], [0.01, 0.01, 0.01, 0.01, 0.015707963000000002], ['T', '0.0', 'T', 'T', 'math.cos(T)'], ['0.0', '0.0-T', '0.0-T+1.0', '0.0-math.log(T)', 'math.sin(T)'], 'GREEN')

@@ -1,0 +1,7 @@
+origin is (10+20+30+40, 80);
+scale is (100,100);
+rot is PI/2;
+color is red;
+for t from 0 to 3 step 0.01 draw(t,0);
+for t from 0 to 3 step 0.01 draw(0,t);
+for t from 0 to 3 step 0.01 draw(t,2*t+3);

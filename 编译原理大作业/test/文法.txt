@@ -1,0 +1,16 @@
+Program  →  { Statement SEMICO } 
+Statement →  OriginStatment | ScaleStatment
+        |  RotStatment    | ForStatment
+OriginStatment → ORIGIN IS L_BRACKET Expression COMMA Expression R_BRACKET
+ScaleStatment  → SCALE IS L_BRACKET Expression COMMA Expression R_BRACKET
+RotStatment → ROT IS Expression
+color_Statment → COLOR IS __
+for_statement -> FOR T FROM expression TO expression STEP expression DRAW L_BRACKET Expression COMMA Expression R_BRACKET
+Expression 	→ Term   { ( PLUS | MINUS ) Term } 
+Term       	→ Factor { ( MUL | DIV ) Factor }
+Factor  	→ ( PLUS | MINUS ) Factor | Component
+Component 	→ Atom [ POWER Component ]
+Atom → CONST_ID
+      | T
+      | FUNC L_BRACKET Expression R_BRACKET
+      | L_BRACKET Expression R_BRACKET 

@@ -1,0 +1,21 @@
+//oRIGIN IS (sin(360), 240);	// (1) 原点移至(360, 240)
+//SCALE IS (70, 100);	// (2) 图形放大100
+//SCALE IS (10+20+30+40, 100**3);	// (3) 纵坐标缩小为三分之一
+//ROT IS PI/2;		// (4) 逆时针旋转90度
+
+-- 绘制园的轨迹
+//FOR T FROM 0 TO 2*PI STEP PI/50 DRAW (COS(2*T+7)+10, SIN(T));
+
+color is green;
+
+for T from 0 to 2 step 0.01 draw (t, 0);  -- 横坐标的轨迹
+for T from 0 to 2 step 0.01 draw (0, -t); -- 纵坐标的轨迹
+for T from 0 to 2.5 step 0.01 draw (t, -t+1); 
+FOR T FROM 1 TO 3 STEP 0.01 DRAW (T, -LN(T));
+for t from 0 to 2*pi step pi/200 draw(cos(t), sin(t));
+
+ORIGIN IS (-80, 60);	// (1) 原点移至(360, 240)
+SCALE IS (100, 100);	// (2) 图形放大100
+SCALE IS (100, 100);	// (3) 纵坐标缩小为三分之一
+//ROT IS PI/2;
+//FOR T FROM 0 TO 2*PI STEP PI/50 DRAW (cos(T), sin(T));
